@@ -1,0 +1,19 @@
+* {
+    background-color: red;
+}
+
+.lasagna.button {
+    background-image: url(./recipes/img/lasagna.jpeg);
+    align-content: center;
+}
+
+.sloppy.button {
+    background-image: url(./recipes/img/sloppy.jpeg);
+}
+
+.button {
+    background-size: contain;
+    height: 300px;
+    width: 300px;
+    font-size: 40px;
+}
